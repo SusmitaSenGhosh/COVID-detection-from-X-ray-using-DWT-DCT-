@@ -1,1 +1,1 @@
-# COVID-detection-from-X-ray-using-DWT-DCT-
+# COVID-detection-from-X-ray-using-DWT-DCT
